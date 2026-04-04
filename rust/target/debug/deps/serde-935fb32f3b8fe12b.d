@@ -1,0 +1,14 @@
+/Users/harlan/development/flutter_c2pa_image_engine/raw_import/rust/target/debug/deps/serde-935fb32f3b8fe12b.d: /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/harlan/development/flutter_c2pa_image_engine/raw_import/rust/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs
+
+/Users/harlan/development/flutter_c2pa_image_engine/raw_import/rust/target/debug/deps/libserde-935fb32f3b8fe12b.rlib: /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/harlan/development/flutter_c2pa_image_engine/raw_import/rust/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs
+
+/Users/harlan/development/flutter_c2pa_image_engine/raw_import/rust/target/debug/deps/libserde-935fb32f3b8fe12b.rmeta: /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/harlan/development/flutter_c2pa_image_engine/raw_import/rust/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs
+
+/Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/harlan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/harlan/development/flutter_c2pa_image_engine/raw_import/rust/target/debug/build/serde-ffe1212ea6083ba8/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/harlan/development/flutter_c2pa_image_engine/raw_import/rust/target/debug/build/serde-ffe1212ea6083ba8/out

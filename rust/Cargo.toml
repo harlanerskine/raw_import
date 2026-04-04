@@ -1,0 +1,27 @@
+[package]
+name = "raw_import"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "staticlib"]
+
+[dependencies]
+flutter_rust_bridge = "=2.11.1"
+# rawler provides pure-Rust DNG/CR2/CR3/NEF/ARW/RAF/ORF decoding
+# without requiring a C/C++ LibRaw dependency.
+rawler = "0.6"
+# image crate for pixel buffer manipulation and JPEG/PNG encoding
+# Must match rawler 0.6's image dependency (0.24) to share DynamicImage types.
+image = { version = "0.24", default-features = false, features = ["jpeg", "png", "tiff"] }
+
+# Force unwind-based panics so that catch_unwind in decoder.rs can
+# intercept rawler panics instead of aborting the process.
+[profile.dev]
+panic = "unwind"
+
+[profile.release]
+panic = "unwind"
+
+[lints.rust]
+unexpected_cfgs = { level = "warn", check-cfg = ['cfg(frb_expand)'] }
