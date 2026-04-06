@@ -7,7 +7,7 @@ edition = "2021"
 crate-type = ["cdylib", "staticlib"]
 
 [dependencies]
-flutter_rust_bridge = "=2.11.1"
+flutter_rust_bridge = "=2.12.0"
 # rawler provides pure-Rust DNG/CR2/CR3/NEF/ARW/RAF/ORF decoding
 # without requiring a C/C++ LibRaw dependency.
 rawler = "0.6"

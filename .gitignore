@@ -1,0 +1,11 @@
+# Rust build artifacts
+rust/target/
+
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+*.iml
+.idea/
+.metadata
+pubspec.lock
